@@ -4,7 +4,6 @@
     android:installLocation="preferExternal"
     android:versionCode="13"
     android:versionName="2.8" >
-
     <!--
 小型升级2.8 versionCode 13  //2014-11-8
 小型升级2.7 versionCode 12  //2014-10-22

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\zaina\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\zaina\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/garyyang/Documents/YiYi-Android/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/garyyang/Documents/YiYi-Android/app/src/debug/assets"/></dataSet></merger>

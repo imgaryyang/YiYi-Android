@@ -156,4 +156,4 @@
         android:layout_height="match_parent"
         android:layout_above="@id/main_bottom" />
 
-</RelativeLayout><!-- From: file:/D:/zaina/app/src/main/res/layout/activity_main.xml -->
+</RelativeLayout><!-- From: file:/Users/garyyang/Documents/YiYi-Android/app/src/main/res/layout/activity_main.xml -->

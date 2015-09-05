@@ -76,4 +76,4 @@
             android:layout_toLeftOf="@id/row_recv_pic" />
     </RelativeLayout>
 
-</LinearLayout><!-- From: file:/D:/zaina/app/src/main/res/layout/row_received_picture.xml -->
+</LinearLayout><!-- From: file:/Users/garyyang/Documents/YiYi-Android/app/src/main/res/layout/row_received_picture.xml -->

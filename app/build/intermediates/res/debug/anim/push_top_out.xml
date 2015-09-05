@@ -6,4 +6,4 @@
         android:duration="200"
         android:fromYDelta="0"
         android:toYDelta="-50%p" />   
-</set><!-- From: file:/D:/zaina/app/src/main/res/anim/push_top_out.xml -->
+</set><!-- From: file:/Users/garyyang/Documents/YiYi-Android/app/src/main/res/anim/push_top_out.xml -->

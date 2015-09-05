@@ -8,4 +8,4 @@
 				android:drawable="@drawable/bt_dynamic_del_focused" />  
 		<item
 				android:drawable="@drawable/bt_dynamic_del_unfocused" />
-</selector><!-- From: file:/D:/zaina/app/src/main/res/drawable/bt_dynamic_del.xml -->
+</selector><!-- From: file:/Users/garyyang/Documents/YiYi-Android/app/src/main/res/drawable/bt_dynamic_del.xml -->

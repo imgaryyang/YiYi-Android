@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/gushi_select" android:state_selected="true"/>
     <item android:drawable="@drawable/gushi"/>
 
-</selector><!-- From: file:/D:/zaina/app/src/main/res/drawable/tab_gushi_bg.xml -->
+</selector><!-- From: file:/Users/garyyang/Documents/YiYi-Android/app/src/main/res/drawable/tab_gushi_bg.xml -->
